@@ -38,4 +38,12 @@ function displaysum(a, b) {
 displaysum(10, 30);
 
 
+function addsum(a, b) {
+    return a + b;
+}
+console.log(addsum(45,20));
+
+
+
+
 
